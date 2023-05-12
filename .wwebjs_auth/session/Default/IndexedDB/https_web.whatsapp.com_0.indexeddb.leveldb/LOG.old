@@ -1,0 +1,64 @@
+2023/05/12-12:20:43.562 4b24 Reusing MANIFEST C:\Users\Arthur\Desktop\Code\UJS\Hermes2\hermescore\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-008364
+2023/05/12-12:20:43.565 4b24 Recovering log #10635
+2023/05/12-12:20:43.657 4b24 Reusing old log C:\Users\Arthur\Desktop\Code\UJS\Hermes2\hermescore\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/010635.log 
+2023/05/12-12:21:09.625 4b24 Level-0 table #10665: started
+2023/05/12-12:21:09.667 4b24 Level-0 table #10665: 1200505 bytes OK
+2023/05/12-12:21:09.669 4b24 Delete type=0 #10635
+2023/05/12-12:21:09.714 1eb0 Compacting 1@0 + 0@1 files
+2023/05/12-12:21:09.804 1eb0 Generated table #10666@0: 20806 keys, 510346 bytes
+2023/05/12-12:21:09.827 1eb0 Generated table #10667@0: 1828 keys, 55395 bytes
+2023/05/12-12:21:09.832 1eb0 Generated table #10668@0: 214 keys, 5562 bytes
+2023/05/12-12:21:09.832 1eb0 Compacted 1@0 + 0@1 files => 571303 bytes
+2023/05/12-12:21:09.833 1eb0 compacted to: files[ 0 3 23 0 0 0 0 ]
+2023/05/12-12:21:09.994 964 Compacting 1@1 + 11@2 files
+2023/05/12-12:21:10.089 964 Generated table #10669@1: 10978 keys, 2160252 bytes
+2023/05/12-12:21:10.270 964 Generated table #10670@1: 25780 keys, 2267121 bytes
+2023/05/12-12:21:10.414 964 Generated table #10671@1: 19446 keys, 2182101 bytes
+2023/05/12-12:21:10.471 964 Generated table #10672@1: 2900 keys, 2120752 bytes
+2023/05/12-12:21:10.619 964 Generated table #10673@1: 29827 keys, 2158470 bytes
+2023/05/12-12:21:10.883 964 Generated table #10674@1: 96571 keys, 2245511 bytes
+2023/05/12-12:21:11.140 964 Generated table #10675@1: 96355 keys, 2245806 bytes
+2023/05/12-12:21:11.411 964 Generated table #10676@1: 97283 keys, 2246469 bytes
+2023/05/12-12:21:11.646 964 Generated table #10677@1: 97329 keys, 2246984 bytes
+2023/05/12-12:21:11.833 964 Generated table #10678@1: 97103 keys, 2247915 bytes
+2023/05/12-12:21:11.859 964 Generated table #10679@1: 10153 keys, 233011 bytes
+2023/05/12-12:21:11.859 964 Compacted 1@1 + 11@2 files => 22354392 bytes
+2023/05/12-12:21:11.861 964 compacted to: files[ 0 2 23 0 0 0 0 ]
+2023/05/12-12:21:11.862 964 Delete type=2 #10650
+2023/05/12-12:21:11.862 964 Delete type=2 #10651
+2023/05/12-12:21:11.862 964 Delete type=2 #10652
+2023/05/12-12:21:11.862 964 Delete type=2 #10653
+2023/05/12-12:21:11.862 964 Delete type=2 #10654
+2023/05/12-12:21:11.862 964 Delete type=2 #10655
+2023/05/12-12:21:11.862 964 Delete type=2 #10656
+2023/05/12-12:21:11.862 964 Delete type=2 #10657
+2023/05/12-12:21:11.862 964 Delete type=2 #10658
+2023/05/12-12:21:11.862 964 Delete type=2 #10659
+2023/05/12-12:21:11.862 964 Delete type=2 #10660
+2023/05/12-12:21:11.862 964 Delete type=2 #10665
+2023/05/12-12:21:11.862 964 Delete type=2 #10667
+2023/05/12-12:21:12.191 964 Compacting 1@1 + 10@2 files
+2023/05/12-12:21:12.321 964 Generated table #10680@1: 87715 keys, 2238943 bytes
+2023/05/12-12:21:12.471 964 Generated table #10681@1: 48083 keys, 2604122 bytes
+2023/05/12-12:21:12.595 964 Generated table #10682@1: 11518 keys, 2670815 bytes
+2023/05/12-12:21:12.702 964 Generated table #10683@1: 16889 keys, 2155976 bytes
+2023/05/12-12:21:12.849 964 Generated table #10684@1: 43241 keys, 2224245 bytes
+2023/05/12-12:21:13.053 964 Generated table #10685@1: 59475 keys, 2222816 bytes
+2023/05/12-12:21:13.087 964 Generated table #10686@1: 3675 keys, 2137636 bytes
+2023/05/12-12:21:13.124 964 Generated table #10687@1: 1496 keys, 2143471 bytes
+2023/05/12-12:21:13.163 964 Generated table #10688@1: 1899 keys, 2144827 bytes
+2023/05/12-12:21:13.206 964 Generated table #10689@1: 1274 keys, 2137413 bytes
+2023/05/12-12:21:13.213 964 Generated table #10690@1: 93 keys, 98653 bytes
+2023/05/12-12:21:13.213 964 Compacted 1@1 + 10@2 files => 22778917 bytes
+2023/05/12-12:21:13.215 964 compacted to: files[ 0 1 24 0 0 0 0 ]
+2023/05/12-12:21:13.216 964 Delete type=2 #10640
+2023/05/12-12:21:13.216 964 Delete type=2 #10641
+2023/05/12-12:21:13.217 964 Delete type=2 #10642
+2023/05/12-12:21:13.217 964 Delete type=2 #10643
+2023/05/12-12:21:13.217 964 Delete type=2 #10644
+2023/05/12-12:21:13.217 964 Delete type=2 #10645
+2023/05/12-12:21:13.217 964 Delete type=2 #10646
+2023/05/12-12:21:13.217 964 Delete type=2 #10647
+2023/05/12-12:21:13.217 964 Delete type=2 #10648
+2023/05/12-12:21:13.217 964 Delete type=2 #10649
+2023/05/12-12:21:13.217 964 Delete type=2 #10666
